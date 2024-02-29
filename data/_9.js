@@ -1,0 +1,1 @@
+var json__9 = {"type":"FeatureCollection","name":"_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"พื้�":"พื้นที่ที่เหมาะสมในการทำบริการรถเช่า"},"geometry":{"type":"Point","coordinates":[98.298480669046072,7.894289521242972]}}]}
